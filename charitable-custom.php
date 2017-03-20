@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:         Charitable - Our Customizations
- * Plugin URI:          
+ * Plugin URI:          https://github.com/Charitable/charitable-custom
  * Description:         A base plugin you can use to add code customizations for your site.
  * Version:             1.0
  * Author:              WP Charitable
